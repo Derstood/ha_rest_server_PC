@@ -1,1 +1,2 @@
 # ha_rest_server_PC
+在windows上运行这个简单的rest_server,用于接收HA的rest请求并做出反应
